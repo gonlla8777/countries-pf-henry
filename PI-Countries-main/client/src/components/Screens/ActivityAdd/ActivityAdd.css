@@ -1,0 +1,10 @@
+.containertotal {
+  align-items: center;
+  align-content: center;
+  background-color: grey;
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+}

@@ -1,0 +1,32 @@
+.FilterOrder {
+    display: flex;
+    align-items: center;
+}
+.FilterOrder > select{
+    margin: 10px 0;
+    
+}
+
+.filter{
+    display: flex;
+    flex-direction: row;
+}
+
+.filter select{
+    margin: 5px;
+    border: 2px solid var(--border-color);
+    border-radius: 7px;
+    padding: 7px;
+    font-size: 14px;
+}
+.order{
+    display: flex;
+    flex-direction: row;
+}
+.order select{
+    margin: 5px;
+    border: 2px solid var(--border-color);
+    border-radius: 7px;
+    padding: 7px;
+    font-size: 14px;
+}

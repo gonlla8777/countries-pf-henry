@@ -1,0 +1,14 @@
+.text {
+  margin: 20px;
+  padding: 20px;
+}
+
+.text h {
+  font-size: 30px;
+  margin: 5px;
+}
+.text p {
+  font-size: 20px;
+  margin: 5px;
+  padding: 4px;
+}
